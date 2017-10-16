@@ -24,7 +24,7 @@ click =()=>{
       <Grid>
           <Row>
             <Col md={12}>
-            <GroupButton data={data}/>
+            <GroupButton data={this.state.data}/>
             </Col>
           </Row>
           <Row>
